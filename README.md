@@ -1,5 +1,4 @@
-API INTEGRATION AND DATA VISUALIZATION
-
+INTERNSHIP _ TASKS 
 COMPANY: CODETECH IT SOLUTIONS
 
 NAME: PERLA DEVARSHINI
@@ -11,6 +10,8 @@ DOMAIN : PYTHON PROGRAMMING
 DATE OF DURATION : DECEMBER 30TH 2024 TO JANUARY 30TH 2025
 
 MENTOR NAME : NEELA SANTOSH
+
+# API INTEGRATION AND DATA VISUALIZATION
 
 Project Overview: Weather Data Fetching and Visualization This project involves fetching weather data for a specific city from the OpenWeatherMap API, processing it, and visualizing it using Plotly. The goal is to retrieve a 5-day weather forecast, extract important details such as temperature, humidity, and pressure, and then present the data in both tabular form and as an interactive graph.
 
@@ -37,7 +38,7 @@ Python Libraries:
 
 Requests: To make HTTP requests to the OpenWeatherMap API. Pandas: For data manipulation and storage in DataFrame format. Plotly: For creating interactive charts and visualizations. OpenWeatherMap API: Used to fetch weather data for a specified city, including the 5-day forecast. Visualization: The data is visualized using Plotly, which provides a flexible and interactive way to present the data.
 
-AUTOMATED-REPORT-GENERATION
+# AUTOMATED-REPORT-GENERATION
 
 Project Overview: Automated Sales Report Generation This project involves creating an automated report generation system using Python, which reads data from a CSV file, processes the data, generates a bar chart, and compiles everything into a PDF report.
 
